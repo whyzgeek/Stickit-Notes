@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "stickit-notes",
+  "description": "stickit-notes: portable lessons learned for Claude Code.",
+  "owner": {
+    "name": "whyzgeek",
+    "url": "https://github.com/whyzgeek"
+  },
+  "plugins": [
+    {
+      "name": "stickit-notes",
+      "description": "Harvest lessons from sessions and auto memory, inject their trigger questions into every session, share them safely.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/whyzgeek/stickit-notes"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "stickit-notes",
+  "version": "0.1.0",
+  "description": "Portable lessons learned for Claude Code: /harvest distills lessons from a session and your auto memory into a git-backed store, every new session sees their trigger questions, and lessons can be shared safely.",
+  "author": {
+    "name": "whyzgeek",
+    "url": "https://github.com/whyzgeek"
+  },
+  "homepage": "https://github.com/whyzgeek/stickit-notes",
+  "repository": "https://github.com/whyzgeek/stickit-notes",
+  "license": "MIT",
+  "keywords": ["lessons-learned", "memory", "knowledge", "hooks", "sharing"]
+}
