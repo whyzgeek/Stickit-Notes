@@ -1,4 +1,4 @@
-# stickit-notes
+# Stickit-Notes
 
 **Shareable lessons learned for Claude Code.** `/harvest` turns what a session
 taught into short, general lessons, each with a *trigger question*. They live
